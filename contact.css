@@ -1,0 +1,339 @@
+#main {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 230px;
+}
+
+.info {
+    margin-top: 30px;
+}
+
+.heads {
+    text-decoration-line: none;
+    color: rgb(69, 69, 69);
+    text-decoration: none;
+}
+
+.fa-solid {
+    color: goldenrod;
+    font-size: 12px;
+}
+
+.div2 {
+    display: flex;
+    margin-left: 290px;
+    margin-top: 30px;
+}
+
+.but1 {
+    font-size: 18px;
+    font-family: 'Alumni Sans SC';
+    padding: 10px 60px;
+    border-radius: 40px;
+    border: 10px;
+    /* margin-top: 15px; */
+    margin-bottom: 30px;
+    background-color: rgb(255, 136, 50);
+}
+
+.but1:hover {
+    color: rgb(255, 132, 0);
+    background-color: ghostwhite;
+    border-color: goldenrod;
+    font-family: 'Alumni Sans SC';
+    font-size: 18px;
+    transition: 0.8s;
+    border: 1px solid;
+}
+
+.fa-brands {
+    margin-top: 12px;
+    margin-right: 15px;
+}
+
+.rh {
+    margin-left: 13%;
+    margin-right: 20%;
+    margin-top: 55px;
+}
+
+/* navbar */
+
+
+.mj {
+    display: flex;
+    margin-left: 300px;
+    
+    font-family: 'Akshar';
+    font-size: 18px;
+}
+
+.mj a {
+    margin-right: 60px;
+    list-style-type: none;
+    padding: 8px 10px;
+    margin-top: -17px;
+    justify-content: space-evenly;
+}
+
+.mj a:hover {
+    color: goldenrod;
+    transition: 0.8s;
+    background-color: white;
+    border-top: 2px solid goldenrod;
+
+}
+/* main */
+
+#hikk {
+    background-image: url(./abtpic.png);
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    
+    width: 100%;
+    height: 22pc;
+    margin-top: 40px;
+}
+
+#hikk a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+
+}
+
+/* first half */
+
+
+.apr{
+    text-align: center;
+    margin-top: 250px;
+}
+.hd{
+    font-family: 'Arizonia';
+    color: orange;
+    font-weight: 700;
+}
+
+
+/* second halh */
+
+
+#fistt{
+        display: flex;
+        margin-top: 200px;
+        justify-content: space-evenly;
+        margin-right: 300px;
+}
+
+#icon{
+    font-size: 30px;
+   
+    color: orange;
+    
+     
+    display: flex;
+   
+    padding: 10px 40px;
+    padding-left:20px;
+}
+
+.and{
+    padding-left: 80px;
+}
+
+.lstt{
+    display: flex;
+    
+}
+.lstt i{
+   font-weight: 100;
+   border: 1px solid rgb(176, 175, 175);
+   
+}
+
+.mja{
+    margin-left: 80px;
+}
+.contact-content p{
+    color: rgb(153, 150, 150);
+    font-size: 18px;
+    font-weight: 400;
+    font-style: none;
+}
+
+#btn_submit{
+    margin-top: 100px;
+    background-color: orange;
+    color: black;
+    font-weight: 600;
+    border-radius: 200px;
+    padding: 10px 60px;
+    border: none;
+}
+
+#btn_submit:hover{
+    background-color: white;
+    transition: 0.8s;
+    color: orange;
+    border: 1px solid orange;
+}
+
+
+
+
+
+
+    
+/*=========================== ending time ===========================*/
+
+
+
+#gtr {
+    background-image: url(./lastbackimg.avif);
+    width: 100%;
+    height: 600px;
+    justify-content: space-evenly;
+    text-align: center;
+    background-size: cover;
+}
+
+#gtr1 {
+    background-color: #000000;
+    opacity: 0.9;
+    height: 600px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.lat {
+    color: black;
+    background-color: goldenrod;
+    border-radius: 25px;
+    padding: 10px 50px;
+
+    font-family: 'Alumni Sans SC';
+    font-size: 20px;
+    border: none;
+
+
+}
+
+.lat:hover {
+    color: goldenrod;
+    background-color: black;
+    transition: 0.8s;
+    border: 2px solid goldenrod;
+    font-weight: 600;
+}
+
+.foot {
+    color: white;
+    text-align: left;
+    justify-content: space-between;
+}
+
+.foot1 {
+    color: white;
+    text-align: left;
+    padding: 0px;
+    justify-content: space-between;
+}
+
+.foot1 a {
+    text-decoration-line: none;
+    color: white;
+}
+
+#sd {
+    color: goldenrod;
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #000000;
+    position: relative;
+}
+
+#sd i {
+    position: absolute;
+    top: 3px;
+    left: 13.5px;
+}
+
+.jsi {
+    display: flex;
+    gap: 20px;
+    margin-left: 10px;
+}
+
+#sd:hover {
+    color: black;
+    background-color: goldenrod;
+    border: none;
+    transform: scale(1.1);
+    transition: 1s;
+
+}
+
+#fkm {
+    display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
